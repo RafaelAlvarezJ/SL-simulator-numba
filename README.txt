@@ -1,4 +1,4 @@
-Streamlines simulator for waterflooding in a quedrant of five-spot pattern, 
+Streamlines simulator for waterflooding in a quadrant of five-spot pattern, 
 considering two-dimension incompressible flow and no capillary pressure. Transport 
 calculations are just IMPES calculations (read "Streamlines Simulation: Theory and 
 Practice"), which are faster than conventional finite-difference simulators.
